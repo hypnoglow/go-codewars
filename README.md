@@ -1,5 +1,9 @@
 # go-codewars
 
+[![Build Status](https://travis-ci.org/hypnoglow/go-codewars.svg?branch=master)](https://travis-ci.org/hypnoglow/go-codewars)
+[![Go Report Card](https://goreportcard.com/badge/github.com/hypnoglow/go-codewars)](https://goreportcard.com/report/github.com/hypnoglow/go-codewars)
+[![GoDoc](https://godoc.org/github.com/hypnoglow/go-codewars?status.svg)](https://godoc.org/github.com/hypnoglow/go-codewars)
+
 A Codewars API client for Go.
 
 ## Example
